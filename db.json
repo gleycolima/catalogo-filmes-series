@@ -19,47 +19,11 @@
       "watched": true
     },
     {
-      "id": "ef9e",
-      "title": "Diabo de Trabalhos",
-      "type": "série",
-      "genre": "Terror",
-      "year": 2025,
-      "rating": 5,
-      "watched": false
-    },
-    {
-      "id": "925e",
-      "title": "Flamengo desgraça",
-      "type": "série",
-      "genre": "Terror",
-      "year": 2025,
-      "rating": 5,
-      "watched": true
-    },
-    {
       "id": "8b6c",
       "title": "Game Of Thrones",
       "type": "série",
       "genre": "Ação/Aventura/Fantasia/Drama",
       "year": 2011,
-      "rating": 5,
-      "watched": true
-    },
-    {
-      "id": "24e2",
-      "title": "terror",
-      "type": "filme",
-      "genre": "terror",
-      "year": 2025,
-      "rating": 5,
-      "watched": false
-    },
-    {
-      "id": "e3b0",
-      "title": "AULA DO CARALHO",
-      "type": "filme",
-      "genre": "Drama",
-      "year": 2025,
       "rating": 5,
       "watched": true
     },
