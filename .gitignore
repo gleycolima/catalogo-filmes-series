@@ -1,0 +1,26 @@
+# dependências
+node_modules/
+npm-debug.log*
+
+# ambiente local
+.env
+.env.local
+.env.*.local
+
+# build
+dist/
+!.well-known
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# editor de código
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# json-server
+db.json
