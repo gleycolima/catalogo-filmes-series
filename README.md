@@ -1,10 +1,22 @@
-# 🎬 ReactFlix - Seu Catálogo de Filmes e Séries com CRUD em React
+# 🎬 ReactFlix - Seu Catálogo de Filmes e Séries com CRUD (React+TypeScript)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue.svg)](https://www.typescriptlang.org/)
 
-> Aplicação web completa para gerenciar seu catálogo pessoal de filmes e séries favoritas com interface moderna, responsiva e operações CRUD totalmente funcionais.
+> Aplicação web completa para gerenciar meu catálogo pessoal de filmes e séries favoritas com interface moderna, responsiva e operações CRUD totalmente funcionais e integração com JSON Server.
+
+---
+
+# 🎥 Vídeo de Apresentação (AV2)
+
+Demonstração completa do projeto: execução, código, interface e funcionalidades.
+
+🔗 Assista aqui:
+👉 https://drive.google.com/file/d/1nY8ZLn5GKnpBbMHThwjSXLhR2xmdcEyR/view?usp=sharing
+
+🔒 O acesso é restrito. Professores podem solicitar acesso diretamente pelo Google Drive.
+
+---
 
 ## 📋 Sobre o Projeto
 
@@ -249,13 +261,8 @@ Este projeto demonstra:
 - ✅ Design responsivo
 - ✅ Separação de responsabilidades (Components, Pages, Services)
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👤 Autor
 
-**Seu Nome**
 - GitHub: [Gleyco Lima](https://github.com/gleycolima)
 
 ## 🤝 Contribuindo
@@ -278,8 +285,8 @@ Se este projeto foi útil para você, considere deixar uma ⭐!
 
 **[⬆ Voltar ao topo](#-reactflix---seu-catálogo-de-filmes-e-séries-com-crud-em-react)**
 
-Desenvolvido com ❤️ por [Gleyco Lima](https://github.com/gleycolima)
+Desenvolvido por [Gleyco Lima](https://github.com/gleycolima)
 
-ReactFlix - Seu catálogo de filmes e séries com CRUD em React
+ReactFlix - Seu catálogo de filmes e séries com CRUD (React+TypeScript)
 
 </div>
