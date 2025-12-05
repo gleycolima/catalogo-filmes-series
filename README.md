@@ -14,8 +14,6 @@ Demonstração completa do projeto: execução, código, interface e funcionalid
 🔗 Assista aqui:
 👉 https://drive.google.com/file/d/1nY8ZLn5GKnpBbMHThwjSXLhR2xmdcEyR/view?usp=sharing
 
-🔒 O acesso é restrito. Professores podem solicitar acesso diretamente pelo Google Drive.
-
 ---
 
 ## 📋 Sobre o Projeto
